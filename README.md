@@ -28,8 +28,5 @@ B.Sc. Computer Systems Engineering Graduated: December 2025
 
 🌐 Languages
 
-Arabic (Native)  |  English (Professional)  |  French (Beginner)
+Arabic (Native)  |  English (Professional)  
 
-Content
-
-PDF
